@@ -1,0 +1,35 @@
+
+
+
+
+[
+    {
+        "id":"01",
+        "name":"Arif Ali",
+        "title":"Producer",
+        "catagory":"producer",
+        "img":"../images/men/01.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis reprehenderit, sint ips"
+    },
+    {
+        "id":"02",
+        "name":"Faisal Khan",
+        "title":"Post Producer",
+        "catagory":"producer",
+        "img":"../images/men/08.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis reprehenderit"
+    },
+    {
+        "id":"03",
+        "name":"Khan Mahmud Rahed",
+        "title":"Producer",
+        "catagory":"producer",
+        "img":"../images/men/03.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis reprehenderit"
+    }
+] 
+
+
+
+
+

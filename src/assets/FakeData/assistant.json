@@ -1,0 +1,35 @@
+[
+    {
+        "id":"01",
+        "name":"Junayed Ahmed",
+        "title":"Assistant Director",
+        "catagory":"AssistantDirector",
+        "img":"../images/men/04.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perfer"
+    },
+    {
+        "id":"02",
+        "name":"Jawad Khan",
+        "title":"Assistant Director",
+        "catagory":"AssistantDirector",
+        "img":"../images/men/05.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis"
+    },
+    {
+        "id":"06",
+        "name":"Zubair Ali",
+        "title":"Assistant Director",
+        "catagory":"AssistantDirector",
+        "img":"../images/men/07.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis"
+    },
+    {
+        "id":"04",
+        "name":"Mahirul Ahmed",
+        "title":"Assistant Director",
+        "catagory":"AssistantDirector",
+        "img":"../images/men/01.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis"
+    }
+]
+

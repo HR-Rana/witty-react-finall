@@ -1,0 +1,30 @@
+
+
+[
+    {
+        "id":"01",
+       "name":"Anisur Rahman",
+        "catagory":"director",
+        "title":"Director and Founder",
+        "img":"../images/men/01.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis reprehenderit, sint ipsa blanditiis soluta eum minus? Quibusdam eligendi dolore reprehenderit eius corrupti laborum et nulla aliquid! Veniam."
+    },
+    {
+        "id":"02",
+        "name":"Faruk Khan",
+        "title":"Director",
+        "catagory":"director",
+        "img":"../images/men/07.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus a eligendi perferendis officiis natus accusantium dolorem fugiat, saepe repudiandae est commodi similique vitae nobis, explicabo maxime quam veniam aspernatur suscipit quae vel! Facilis distinctio aperiam illum tempora aut, ab et at sed suscipit iste iure quia cum error maxime, dolore veniam omnis architecto quis reprehenderit, sint ipsa blanditiis soluta"
+    },
+    {
+        "id":"03",
+        "name":"Dawud Ali",
+        "title":"Director",
+        "catagory":"director",
+        "img":"../images/men/03.jpg",
+        "bio":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit cum sed placeat esse laboriosam perferendis reprehenderit totam cupiditate in pariatur molestias ex ipsam eveniet consequuntur recusandae sunt ad rem voluptate, blanditiis veritatis. Vero dicta sit nulla possimus"
+    }
+]
+
+
