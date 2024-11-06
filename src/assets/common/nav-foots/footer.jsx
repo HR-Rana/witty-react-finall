@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className='py-7'>
         <div className="content flex flex-col ">
-            <span>
+            <span className='w-[20%]'>
                 <img src={logo} alt="logo" />
             </span>
             <span>

@@ -96,35 +96,3 @@ export const Producers =[
 ] 
 
 
-// const data = []
-// module.exports = Directors, asistantDirectors, Producers;
-// export default(data) 
-
-
-
-
-
-// <div id="myDiv" data-value="123">Hello</div>
-// const myDiv = document.getElementById("myDiv");
-// const value = myDiv.getAttribute("data-value"); // "123"
-// console.log(value);
-
-// // queryParams.js
-
-// // Function to send a request with query parameters
-// async function sendRequestWithQueryParams() {
-//   const baseUrl = 'https://example.com/api/resource'; // Base URL for the API
-
-//   // Create an instance of URLSearchParams with key-value pairs
-//   const params = new URLSearchParams({
-//     param1: 'value1',
-//     param2: 'value2',
-//   });
-
-//   // Construct the full URL with query parameters
-//   const urlWithParams = `${baseUrl}?${params.toString()}`;
-//   console.log("Sending request to:", urlWithParams
-
-
-// const {name, age} = new URLSearchParams();
-// console.log(name, age);

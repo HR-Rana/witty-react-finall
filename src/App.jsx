@@ -9,6 +9,7 @@ import Routing from './routing/routing'
 
 
 
+
 function App() {
   
 
@@ -16,7 +17,7 @@ function App() {
     <>
        <BrowserRouter>
             <Nav />
-                <Routing />
+              <Routing />
             <Footer />
        </BrowserRouter>
     </>
